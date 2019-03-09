@@ -1,1 +1,1 @@
-# PCMaster.pro last version
+# PCMaster.pro v.3.0.0
