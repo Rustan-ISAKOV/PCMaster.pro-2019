@@ -15,7 +15,7 @@ http://themeforest.net/licenses
 @media (max-width : 1024px){
 	.pane-when{
 	}
-	.pane-when .content{
+	.pane-when .content{ 
 		position: absolute;
 		top: 50%;
 		left: 0;
