@@ -19,7 +19,7 @@ http://themeforest.net/licenses
 		position: absolute;
 		top: 50%;
 		left: 0;
-		right: 0;
+		right: 0; 
 	}
 	.pane-when::after {
 /*		display: none;*/
