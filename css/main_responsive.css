@@ -32,7 +32,7 @@
         width: auto; 
     	text-align: center,;     
     } 
-	.pane-when .clock .elem-center .digit{
+	.pane-when .clock .elem-center .digit{ 
     	font-size: 140px;  
 	} 
 	.pane-when .clock .elem-center .txt {
