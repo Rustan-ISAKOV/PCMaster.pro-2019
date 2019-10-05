@@ -68,7 +68,7 @@
 		padding-right: 56px;
 	}
 	
-}
+} 
 /* Screen Small than 768px */
 @media (max-width : 768px){
 	.pane-when .clock{
