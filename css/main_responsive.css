@@ -18,7 +18,7 @@
 		right: 0; 
 	}
 	.pane-when::after {
-/*		display: none;*/
+/*		display: none;*/ 
 	}
 	.pane-when .clock{
 		width: 270px; 
