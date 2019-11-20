@@ -2,7 +2,7 @@
              
 -------------------------------------------------------------------*/
                                                                                                              
-                                                                                                                          
+                                                                                                                           
 /** CSS-AddOn for Large  screen First responsiveness approch */
         
                            
@@ -20,7 +20,7 @@
 	.pane-when::after {
 /*		display: none;*/ 
 	}
-	.pane-when .clock{
+	.pane-when .clock{ 
 		width: 270px; 
 		margin-top: 20px;
 	} 
