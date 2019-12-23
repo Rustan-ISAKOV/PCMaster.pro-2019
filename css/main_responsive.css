@@ -41,7 +41,7 @@
 	}
 	.pane-when .clock .elem-bottom .deco:after,
 	.pane-when .clock .elem-bottom .deco:before{
-		width: 10px;
+		width: 10px; 
 		height: 70px;
 		bottom: 17px;
 	} 
